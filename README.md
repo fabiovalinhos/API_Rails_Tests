@@ -1,6 +1,6 @@
 # README
 
-Ruby on Rails API using Test Driven Development.  
+Case study for create Api with Rails  
 
 Instructor: Leonardo Scorza  
 
